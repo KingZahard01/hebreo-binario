@@ -1,6 +1,8 @@
-Objetivo principal: Crear un programa web que convierte palabras en hebreo a binario con funcionalidades específicas.
+## Objetivo principal:
 
-Requisitos funcionales:
+Crear un programa web que convierte palabras en hebreo a binario con funcionalidades específicas.
+
+## Requisitos funcionales:
 
 - Input de texto en hebreo.
 - Mostrar el texto palabra por palabra con saltos de línea.
@@ -10,13 +12,13 @@ Requisitos funcionales:
 - Mostrar toda la información en una tabla.
 - Descargar una imagen de la tabla generada.
 
-Requisitos no funcionales:
+## Requisitos no funcionales:
 
 - Compatibilidad con navegadores modernos.
 - Interfaz sencilla y fácil de usar.
 - Respuesta rápida a las solicitudes del usuario.
 
-Herramientas y tecnologías sugeridas:
+## Herramientas y tecnologías sugeridas:
 
 - Frontend: HTML, CSS (TailwindCSS), JavaScript (React.js).
 - Backend: Node.js (Express.js) .
